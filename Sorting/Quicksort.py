@@ -43,5 +43,4 @@ ARRAY = [10, 7, 8, 1, 4, 9, 2, 5, 3, 6]
 N = len(ARRAY)
 
 Quicksort(ARRAY, 0, N-1)
-
 print("Sorted array is: ", ARRAY)
